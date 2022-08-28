@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "8pSHFSHAZpmvC4Wog0mQpIIPfoin7bVo42eplZiKKyo",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["onKHp5_fjhnkfnkf6a10itywaV9w","onKHp59iTBsPRcXflQUxdRA7pzME"],
+"user": ["onKHp522UjSBC7Q2JyKFGRqqiPxQ","onKHp59iTBsPRcXflQUxdRA7pzME"],
 
 # 信息配置
 # 和风天气apikey
@@ -17,7 +17,7 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "四川",
 # 生日1
-"birthday1": {"name": "福虎", "birthday": "1998-08-31"},
+"birthday1": {"name": "王林", "birthday": "2001-08-19"},
 # 生日2
 "birthday2": {"name": "锦辉", "birthday": "2000-11-06"},
 # 在一起的日子，格式同上
